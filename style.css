@@ -151,9 +151,12 @@ div.fadeIn {
   .options button {
     box-sizing: border-box;
     width: 20%;
-    margin: n;
+    margin: ;
   }
   .paper {
     margin: -100px;
+  }
+  .winner {
+    font-size: 40px
   }
 }
